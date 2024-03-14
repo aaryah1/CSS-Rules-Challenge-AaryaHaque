@@ -1,0 +1,37 @@
+img {
+  width: 300px;
+  height: 250px;
+}
+/*lines 6-30 I added the code to update font color, size, and style*/
+h1{
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 50px;
+}
+h2{
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 40px;
+}
+h3{
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+}
+h5{
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+}
+p{
+  font-family: cursive;
+  font-size: 20px;
+  color: white;
+}
+/*added background image to website*/
+body{
+  background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5mbXpweTE4YnV5YXY3MDdobW5hbjlpdWdlOGR0YWl1Nmc1M3FtaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VwkOGUM4gAkrDrFw2L/giphy.gif");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
